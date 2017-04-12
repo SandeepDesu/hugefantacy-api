@@ -1,0 +1,9 @@
+{
+  "name": "hugefantacy-api",
+  "version": "0.0.1",
+  "description": "All in one Platform",
+  "main": "app.js",
+  "dependencies": {
+
+  }
+}
